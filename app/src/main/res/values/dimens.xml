@@ -1,0 +1,24 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="title_size">24sp</dimen>
+    <dimen name="padding_question">8dp</dimen>
+    <dimen name="left_padding_answer">16dp</dimen>
+    <dimen name="right_padding_answer">8dp</dimen>
+    <dimen name="padding_number">16dp</dimen>
+    <dimen name="margin_card">8dp</dimen>
+    <dimen name="text_size_question">16sp</dimen>
+    <dimen name="size_question_number">24sp</dimen>
+    <dimen name="bottom_button_space">8dp</dimen>
+
+    <dimen name="circle_size">160sp</dimen>
+    <dimen name="score_size">60sp</dimen>
+    <dimen name="your_score_size">34sp</dimen>
+    <dimen name="space_top_circle">12dp</dimen>
+    <dimen name="space_bottom_circle">24dp</dimen>
+
+</resources>
