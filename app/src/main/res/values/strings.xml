@@ -9,6 +9,8 @@
     <string name="text_question3">When did fall of the Western Roman Empire occur?</string>
     <string name="text_question4">Where was the paper invented?</string>
     <string name="text_question5">Who was the first woman to win a Nobel Prize?</string>
+    <string name="text_question6">Which of these things where invaented in Canada?</string>
+
     <string name="start">Start quiz</string>
     <string name="title_activity_questions">questions</string>
     <string name="submit_button">submit</string>
@@ -20,6 +22,7 @@
     <string name="question_3">3</string>
     <string name="question_4">4</string>
     <string name="question_5">5</string>
+    <string name="question_6">6</string>
 
     <string name="answer_q1_a1">Johannes Gutenberg</string>
     <string name="answer_q1_a2">Nikola Tesla</string>
@@ -46,6 +49,10 @@
     <string name="answer_q5_a3">Maria Goeppert Mayer</string>
     <string name="answer_q5_a4">Irène Joliot-Curie</string>
 
+    <string name="answer_q6_a1">Light bulp</string>
+    <string name="answer_q6_a2">Football</string>
+    <string name="answer_q6_a3">Basketball</string>
+    <string name="answer_q6_a4">Radar</string>
 
 
     <string name="large_text">

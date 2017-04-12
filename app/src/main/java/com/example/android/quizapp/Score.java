@@ -23,7 +23,7 @@ public class Score extends AppCompatActivity {
     public void showScore() {
 
         TextView score = (TextView) findViewById(R.id.final_score);
-        score.setText(Integer.toString(getSum()) + "/5");
+        score.setText(Integer.toString(getSum()) + "/6");
     }
 
     /**
